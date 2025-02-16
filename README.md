@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error in array traversal. The error occurs in the for loop, which iterates one element past the end of the array, causing an ArrayIndexOutOfBoundsException. A corrected version of the code is also provided.
